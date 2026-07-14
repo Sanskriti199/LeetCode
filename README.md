@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sanskriti199/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Sanskriti199/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0051-n-queens](https://github.com/Sanskriti199/LeetCode/tree/master/0051-n-queens) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Sanskriti199/LeetCode/tree/master/0010-regular-expression-matching) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Sanskriti199/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
