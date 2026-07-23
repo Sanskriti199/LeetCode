@@ -14,12 +14,15 @@ public:
             else
             ans.push_back(nums2[j++]);
         }
+        //remaining in 1
         while(i<m)
         ans.push_back(nums1[i++]);
 
+        //remaining in 2
         while(j<n)
         ans.push_back(nums2[j++]);
 
+        //store the merge in the nums back
         nums1=ans;
     }
 };
