@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Sanskriti199/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sanskriti199/LeetCode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/Sanskriti199/LeetCode/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/Sanskriti199/LeetCode/tree/master/1768-merge-strings-alternately) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Sanskriti199/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/Sanskriti199/LeetCode/tree/master/0035-search-insert-position) |
 | [0051-n-queens](https://github.com/Sanskriti199/LeetCode/tree/master/0051-n-queens) |
+| [0088-merge-sorted-array](https://github.com/Sanskriti199/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sanskriti199/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sanskriti199/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 ## Hash Table
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sanskriti199/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Sanskriti199/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
