@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sanskriti199/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Sanskriti199/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sanskriti199/LeetCode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Sanskriti199/LeetCode/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/Sanskriti199/LeetCode/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/Sanskriti199/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## String
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Sanskriti199/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sanskriti199/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Sanskriti199/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Sanskriti199/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sanskriti199/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 ## Hash Table
 |  |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Sanskriti199/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sanskriti199/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Sanskriti199/LeetCode/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/Sanskriti199/LeetCode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Sanskriti199/LeetCode/tree/master/0509-fibonacci-number) |
 ## Trie
 |  |
