@@ -1,10 +1,9 @@
-#include <vector>
 
 class Solution {
 public:
-    std::vector<int> productExceptSelf(std::vector<int>& nums) {
+    vector<int> productExceptSelf(std::vector<int>& nums) {
         int n = nums.size();
-        std::vector<int> answer(n, 1);
+        vector<int> answer(n, 1);
         
         int prefix = 1;
         for (int i = 0; i < n; ++i) {
