@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sanskriti199/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sanskriti199/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0274-h-index](https://github.com/Sanskriti199/LeetCode/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sanskriti199/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sanskriti199/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Sanskriti199/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Sanskriti199/LeetCode/tree/master/0169-majority-element) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sanskriti199/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Math
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Sanskriti199/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Sanskriti199/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Sanskriti199/LeetCode/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sanskriti199/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/Sanskriti199/LeetCode/tree/master/0509-fibonacci-number) |
 ## Trie
 |  |
@@ -143,4 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Sanskriti199/LeetCode/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sanskriti199/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Sanskriti199/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
