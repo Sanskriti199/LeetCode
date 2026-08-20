@@ -9,7 +9,7 @@ public:
     if (s[i] != s[n - i - 1])
     return false;
 
-    return check(i + 1, s);
+    return check(i+1, s);
     }
 
     bool isPalindrome(string s) {
@@ -23,3 +23,5 @@ public:
     return check(0, t);
     }
 };
+
+
