@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Sanskriti199/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Sanskriti199/LeetCode/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sanskriti199/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sanskriti199/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
