@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Sanskriti199/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sanskriti199/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/Sanskriti199/LeetCode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/Sanskriti199/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Sanskriti199/LeetCode/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Sanskriti199/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Sanskriti199/LeetCode/tree/master/0125-valid-palindrome) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Sanskriti199/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Sanskriti199/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Sanskriti199/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Sanskriti199/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Sanskriti199/LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Sanskriti199/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Sanskriti199/LeetCode/tree/master/0055-jump-game) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sanskriti199/LeetCode/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Sanskriti199/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Sanskriti199/LeetCode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/Sanskriti199/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Sanskriti199/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Sanskriti199/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Sanskriti199/LeetCode/tree/master/0169-majority-element) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sanskriti199/LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Sanskriti199/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Sanskriti199/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sanskriti199/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Sanskriti199/LeetCode/tree/master/0242-valid-anagram) |
