@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sanskriti199/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sanskriti199/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Sanskriti199/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/Sanskriti199/LeetCode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Sanskriti199/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Sanskriti199/LeetCode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Sanskriti199/LeetCode/tree/master/0383-ransom-note) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sanskriti199/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Sanskriti199/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sanskriti199/LeetCode/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/Sanskriti199/LeetCode/tree/master/0224-basic-calculator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sanskriti199/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0509-fibonacci-number](https://github.com/Sanskriti199/LeetCode/tree/master/0509-fibonacci-number) |
 ## Trie
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Sanskriti199/LeetCode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/Sanskriti199/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Sanskriti199/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0224-basic-calculator](https://github.com/Sanskriti199/LeetCode/tree/master/0224-basic-calculator) |
 | [0509-fibonacci-number](https://github.com/Sanskriti199/LeetCode/tree/master/0509-fibonacci-number) |
 ## Backtracking
 |  |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Sanskriti199/LeetCode/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sanskriti199/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Sanskriti199/LeetCode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/Sanskriti199/LeetCode/tree/master/0224-basic-calculator) |
 ## Monotonic Stack
 |  |
 | ------- |
