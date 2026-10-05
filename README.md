@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Sanskriti199/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Sanskriti199/LeetCode/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Sanskriti199/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Sanskriti199/LeetCode/tree/master/0856-score-of-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Sanskriti199/LeetCode/tree/master/1768-merge-strings-alternately) |
 ## Array
 |  |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Sanskriti199/LeetCode/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Sanskriti199/LeetCode/tree/master/0224-basic-calculator) |
 | [0678-valid-parenthesis-string](https://github.com/Sanskriti199/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Sanskriti199/LeetCode/tree/master/0856-score-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -283,4 +285,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Sanskriti199/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sanskriti199/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Sanskriti199/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Sanskriti199/LeetCode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
