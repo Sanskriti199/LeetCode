@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Sanskriti199/LeetCode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Sanskriti199/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Sanskriti199/LeetCode/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/Sanskriti199/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0383-ransom-note](https://github.com/Sanskriti199/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Sanskriti199/LeetCode/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Sanskriti199/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sanskriti199/LeetCode/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/Sanskriti199/LeetCode/tree/master/0051-n-queens) |
+| [0301-remove-invalid-parentheses](https://github.com/Sanskriti199/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 ## Memoization
 |  |
 | ------- |
@@ -292,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Sanskriti199/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Sanskriti199/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sanskriti199/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Sanskriti199/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
