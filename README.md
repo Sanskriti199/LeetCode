@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Sanskriti199/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sanskriti199/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sanskriti199/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Sanskriti199/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -302,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/Sanskriti199/LeetCode/tree/master/0301-remove-invalid-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Sanskriti199/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
