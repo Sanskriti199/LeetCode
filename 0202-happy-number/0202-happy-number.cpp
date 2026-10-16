@@ -1,28 +1,20 @@
 class Solution {
 public:
-    int digitSquareSum(int n) {
-        int sum = 0;
-
-        while (n > 0) {
-            int digit = n % 10;
-            sum += digit * digit;
-            n /= 10;
+    int next(int n){
+        int sum=0;
+        while(n>0){
+            int d=n%10;
+            n/=10;
+            sum+=d*d;
         }
-
         return sum;
     }
-
     bool isHappy(int n) {
-        unordered_set<int> seen;
-
-        while (n != 1) {
-            if (seen.count(n))
-                return false;
-
+        unordered_set<int>seen;
+        while(n!=1 && seen.find(n)==seen.end(n)){
             seen.insert(n);
-            n = digitSquareSum(n);
+            n=next(n);
         }
-
-        return true;
+        return n==1;
     }
 };
