@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Sanskriti199/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sanskriti199/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Sanskriti199/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Sanskriti199/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Sanskriti199/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Sanskriti199/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Sanskriti199/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Sanskriti199/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sanskriti199/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Sanskriti199/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Sanskriti199/LeetCode/tree/master/0146-lru-cache) |
 ## Matrix
 |  |
 | ------- |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Sanskriti199/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Sanskriti199/LeetCode/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sanskriti199/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
@@ -326,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sanskriti199/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Sanskriti199/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
