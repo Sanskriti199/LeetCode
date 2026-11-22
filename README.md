@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/Sanskriti199/LeetCode/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Sanskriti199/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sanskriti199/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Sanskriti199/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sanskriti199/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sanskriti199/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Sanskriti199/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sanskriti199/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sanskriti199/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Sanskriti199/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Sanskriti199/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Sliding Window
 |  |
 | ------- |
